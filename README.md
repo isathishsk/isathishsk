@@ -36,12 +36,12 @@
 </details> -->
 
 [website]: https://devsk-25.web.app
-[twitter]: https://twitter.com/sathishsk25
+[twitter]: https://twitter.com/isathish_sk
 [youtube]: https://youtube.com/sathishsk25
-[instagram]: https://instagram.com/sathishsk25
-[linkedin]: https://linkedin.com/in/sathishsk25
+[instagram]: https://instagram.com/isathish.sk
+[linkedin]: https://linkedin.com/in/isathishsk
 
-- 📫 Reach me @ **sathishuma770@gmail.com**
+- 📫 Reach me @ **isathish.sk@outlook.com**
 ---
 
 
