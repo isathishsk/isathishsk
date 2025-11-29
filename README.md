@@ -56,22 +56,13 @@ DevOps
 
 ---
 
-
-Automation Testing
-
-<img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" />
-<img align="left" alt="TestNG" width="26px" src="https://img.icons8.com/ios-filled/50/000000/test-tube.png" />
-
-<br> 
-
----
-
 Tools
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 <br/>
