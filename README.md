@@ -14,7 +14,7 @@ Programming Languages
 
 ---
 
-Frontend Technologies
+Web Technologies
 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
@@ -25,13 +25,6 @@ Frontend Technologies
 <img align="left" alt="TailwindCSS" width="26px" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" />
 <img align="left" alt="JSP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Ember.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original.svg" />
-
-<br> 
-
----
-
-Backend Technologies
-
 <img align="left" alt="Java Servlet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
@@ -39,18 +32,6 @@ Backend Technologies
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Tomcat" width="26px" src="https://devicon-website.vercel.app/api/tomcat/original.svg" />
-
-<br> 
-
----
-
-
-DevOps
-
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="Zoho CodeMine" width="26px" src="https://raw.githubusercontent.com/isathishsk/isathishsk/refs/heads/main/assets/icon/zoho/codemine.svg" />
 
 <br> 
 
@@ -64,6 +45,10 @@ Tools
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Postman" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
+<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="Zoho CodeMine" width="26px" src="https://raw.githubusercontent.com/isathishsk/isathishsk/refs/heads/main/assets/icon/zoho/codemine.svg" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 <br/>
 
