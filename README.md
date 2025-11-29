@@ -91,9 +91,8 @@ Tools
 
 ---
 
-📫 Reach me @ **isathish.sk@outlook.com**
+📫  **isathish.sk@outlook.com**
 
----
 
 
 
