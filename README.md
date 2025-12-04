@@ -8,7 +8,7 @@ Programming Languages
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Zoho Deluge" width="26px" src="https://github.com/isathishsk/isathishsk/blob/main/assets/icon/zoho/deluge.png?raw=true" />
+<img align="left" alt="Zoho Deluge" title="Zoho Deluge" width="26px" src="https://github.com/isathishsk/isathishsk/blob/main/assets/icon/zoho/deluge.png?raw=true" />
 
 <br>
 
@@ -23,9 +23,9 @@ Web Technologies
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
 <img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" />
-<img align="left" alt="JSP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="JSP" title="JSP - Java Server Page" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Ember.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original.svg" />
-<img align="left" alt="Java Servlet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Java Servlet" title="Java Servlet" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
@@ -48,7 +48,7 @@ Tools
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
 <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" />
-<img align="left" alt="Zoho CodeMine" width="26px" src="https://raw.githubusercontent.com/isathishsk/isathishsk/refs/heads/main/assets/icon/zoho/codemine.svg" />
+<img align="left" alt="Zoho CodeMine" title="Zoho Codemine" width="26px" src="https://raw.githubusercontent.com/isathishsk/isathishsk/refs/heads/main/assets/icon/zoho/codemine.svg" />
 <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
 <br/>
 
